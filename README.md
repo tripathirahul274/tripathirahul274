@@ -28,7 +28,7 @@
 
 👨‍💻 My Portfilio [Click here](https://rahul-tripathi-github-io.netlify.app/)
 
-👀 My Github Repositories [Click here](https://github.com/tripathirahul274?tab=repositories))
+👀 My Github Repositories [Click here](https://github.com/tripathirahul274?tab=repositories)
 
 🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, Bootstrap & styled-components.
 
