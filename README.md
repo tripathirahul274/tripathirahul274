@@ -26,7 +26,7 @@
 
 ⚛️ Some technologies that I love to working with includes MERN stack, Typescript & Web Testing.
 
-👨‍💻 My Portfilio [Click here](https://rahul-tripathi-github-io.netlify.app/)
+👨‍💻 My Portfilio [Click here](https://tripathirahul274.github.io/)
 
 👀 My Github Repositories [Click here](https://github.com/tripathirahul274?tab=repositories)
 
