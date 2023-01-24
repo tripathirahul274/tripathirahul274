@@ -34,7 +34,7 @@
 
 📧 Email - tripathirahul274@gmail.com
 
-📄 Know about my skills  [Resume](https://drive.google.com/file/d/1GgqHgxu6DIQ-EzbuZMoiR0T9Gl9kMQtd/view?usp=share_link)
+📄 Know about my skills  [Resume](https://drive.google.com/file/d/11U1dFoE1a_1v4YUoSgRIxJJ_ZpOEzfP5/view?usp=share_link)
 
 
 ## 🌐 Socials
